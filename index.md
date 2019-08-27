@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Kaung Myat Zaw's First CS193 Homework
 - Free Github Pro
 - Resume advice
+- Chill class
 
 1. Numbered
 2. List
